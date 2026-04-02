@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "calc_mcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "C:\\Users\\sowmy\\AppData\\Local\\Programs\\Python\\Python313\\sampleproject1\\calc_mcp\\.venv\\Scripts\\python.exe",
+        "C:\\Users\\sowmy\\AppData\\Local\\Programs\\Python\\Python313\\sampleproject1\\calc_mcp\\calc.py"
+      ],
+      "cwd": "C:\\Users\\sowmy\\AppData\\Local\\Programs\\Python\\Python313\\sampleproject1\\calc_mcp"
+     
+    }
+  }
+}
